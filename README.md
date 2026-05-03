@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: A full-stack web application using React and Node.js.<br><br>👯 I’m looking to collaborate on: Open-source projects related to web accessibility or UI/UX components.<br><br>🤝 I’m looking for help with: Mastering complex backend architectures and system design.<br><br>🌱 I’m currently learning: TypeScript and the fundamentals of Cloud Infrastructure (AWS).<br><br>💬 Ask me about: My journey into tech and my favorite CSS tricks.<br><br>⚡ Fun fact: I can solve a Rubik's cube in under a minute (or at least I'm trying to!).
+🔭 I’m currently working on: A full-stack web application using React and Node.js.<br>👯 I’m looking to collaborate on: Open-source projects related to web accessibility or UI/UX components.<br>🤝 I’m looking for help with: Mastering complex backend architectures and system design.<br>🌱 I’m currently learning: TypeScript and the fundamentals of Cloud Infrastructure (AWS).<br>💬 Ask me about: My journey into tech and my favorite CSS tricks.<br>⚡ Fun fact: I can solve a Rubik's cube in under a minute (or at least I'm trying to!).
 
 
 ## 🌐 Socials:
